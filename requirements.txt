@@ -1,0 +1,17 @@
+streamlit
+
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+
+chromadb
+
+python-dotenv
+
+sentence-transformers
+
+pypdf
+
+tiktoken

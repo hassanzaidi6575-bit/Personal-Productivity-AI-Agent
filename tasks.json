@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "Complete AI Internship Assignment",
+        "description": "Build Personal Productivity Agent using LangGraph and AI tools",
+        "priority": "High",
+        "status": "Completed",
+        "due_date": "2026-08-01",
+        "created_date": "2026-07-25",
+        "updated_date": "2026-07-26",
+        "tags": [
+            "AI",
+            "LangGraph",
+            "RAG"
+        ],
+        "source": "user",
+        "notes": "Implement semantic search using ChromaDB and embeddings",
+        "completion_timestamp": "2026-07-26T13:48:54.431938"
+    },
+    {
+        "id": 2,
+        "title": "Learn Python",
+        "description": "Improve Python programming skills",
+        "priority": "High",
+        "status": "Completed",
+        "due_date": "2026-07-30",
+        "created_date": "2026-07-25",
+        "updated_date": "2026-07-27",
+        "tags": [
+            "Python",
+            "Learning"
+        ],
+        "source": "user",
+        "notes": "Complete Chapter 5 before Friday",
+        "completion_timestamp": "2026-07-27T17:29:32.434075"
+    },
+    {
+        "id": 3,
+        "title": "Learn LangGraph",
+        "description": "Understand LangGraph agents and workflows",
+        "priority": "High",
+        "status": "Completed",
+        "due_date": "2026-08-05",
+        "created_date": "2026-07-25",
+        "updated_date": "2026-07-27",
+        "tags": [
+            "LangGraph",
+            "AI Agents"
+        ],
+        "source": "user",
+        "notes": "Study nodes, states, routers, and tool execution",
+        "completion_timestamp": "2026-07-27T16:45:08.571039"
+    },
+    {
+        "title": "test 1",
+        "description": "to check proper working",
+        "priority": "high",
+        "due_date": "2026-07-27",
+        "tags": [],
+        "source": "user",
+        "notes": "",
+        "id": 6,
+        "created_date": "2026-07-27",
+        "updated_date": "2026-07-27",
+        "status": "Pending"
+    }
+]

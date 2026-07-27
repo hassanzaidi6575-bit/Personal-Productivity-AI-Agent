@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Vector Database
+chroma_storage/
+
+# IDE Files
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db

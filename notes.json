@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "AI Internship Project Notes",
+        "content": "Building Personal Productivity Agent using LangGraph, ChromaDB, embeddings, and semantic search.",
+        "category": "AI Project",
+        "tags": [
+            "AI",
+            "LangGraph",
+            "RAG"
+        ],
+        "created_date": "2026-07-25",
+        "updated_date": "2026-07-25"
+    },
+    {
+        "id": 2,
+        "title": "LangGraph Learning Notes",
+        "content": "LangGraph uses states, nodes, edges, and workflows to build AI agents.",
+        "category": "Learning",
+        "tags": [
+            "LangGraph",
+            "Agents"
+        ],
+        "created_date": "2026-07-25",
+        "updated_date": "2026-07-25"
+    },
+    {
+        "id": 3,
+        "title": "Python Learning Notes",
+        "content": "Practice Python basics including variables, functions, loops, and file handling.",
+        "category": "Learning",
+        "tags": [
+            "Python",
+            "Programming"
+        ],
+        "created_date": "2026-07-25",
+        "updated_date": "2026-07-25"
+    },
+    {
+        "title": "LangGraph Testing",
+        "content": "",
+        "category": "",
+        "tags": [],
+        "id": 4,
+        "created_date": "2026-07-26",
+        "updated_date": "2026-07-26"
+    },
+    {
+        "title": "LangGraph Testing",
+        "content": "Note regarding the testing of LangGraph.",
+        "category": "Testing",
+        "tags": [],
+        "id": 5,
+        "created_date": "2026-07-26",
+        "updated_date": "2026-07-26"
+    },
+    {
+        "title": "LangGraph Learning",
+        "content": "LangGraph is used to build stateful AI agent workflows with nodes and edges.",
+        "category": "",
+        "tags": [],
+        "id": 6,
+        "created_date": "2026-07-27",
+        "updated_date": "2026-07-27"
+    },
+    {
+        "title": "AI Agent Architecture",
+        "content": "An AI agent consists of several important components including an LLM, decision logic, tools, memory, and execution workflow. LangGraph helps manage the agent workflow using states and nodes, allowing the system to perform multi-step tasks.",
+        "category": "General",
+        "tags": [],
+        "id": 7,
+        "created_date": "2026-07-27",
+        "updated_date": "2026-07-27"
+    },
+    {
+        "title": "Hassan Zaidi Test",
+        "content": "to check proper note working",
+        "category": "",
+        "tags": [],
+        "id": 8,
+        "created_date": "2026-07-27",
+        "updated_date": "2026-07-27"
+    }
+]
